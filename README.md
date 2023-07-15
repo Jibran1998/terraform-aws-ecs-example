@@ -1,5 +1,3 @@
-Here is a rewritten README file:
-
 # AWS ECS with Terraform Example
 
 This repository provides an example for deploying a container to AWS ECS using Terraform. 
